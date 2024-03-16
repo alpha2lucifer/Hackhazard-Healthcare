@@ -132,7 +132,7 @@ const Home = () => {
               </div>
               <div className="w-[15.5rem] relative text-[0.75rem] font-medium font-dm-sans inline-block opacity-[0.75]">
                 <p className="m-0">{`Hello, we are Lift Media. Our goal is to translate the positive effects from revolutionizing how companies engage with their clients & their team.`}</p>
-                <p className="m-0">WITH LOVE FROM AABID AND AHMAD</p>
+                <p className="m-0">WITH LOVE FROM ODE To Code</p>
               </div>
             </div>
           </div>
