@@ -1,0 +1,142 @@
+{
+  "contractName": "AddressToString",
+  "abi": [],
+  "metadata": "{\"compiler\":{\"version\":\"0.5.1+commit.c8a2cb62\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"methods\":{}},\"userdoc\":{\"methods\":{}}},\"settings\":{\"compilationTarget\":{\"project:/contracts/uitls/Strings.sol\":\"AddressToString\"},\"evmVersion\":\"byzantium\",\"libraries\":{},\"optimizer\":{\"enabled\":false,\"runs\":200},\"remappings\":[]},\"sources\":{\"project:/contracts/uitls/Strings.sol\":{\"keccak256\":\"0x43c87534763019fcc816315b3b92e0024c1cb7dc65872de228c1a72874069d16\",\"urls\":[\"bzzr://6db9922dd3cad82d67c019a4538c856d360f1192b465ff0896e2f60e0a8b7655\"]}},\"version\":1}",
+  "bytecode": "0x6080604052348015600f57600080fd5b50604380601d6000396000f3fe6080604052600080fdfea265627a7a723058205f98bcf66a7f2e4ebce03cb3518b42ebcb4926ca86dfaf0414c911f2c945f2486c6578706572696d656e74616cf50037",
+  "deployedBytecode": "0x6080604052600080fdfea265627a7a723058205f98bcf66a7f2e4ebce03cb3518b42ebcb4926ca86dfaf0414c911f2c945f2486c6578706572696d656e74616cf50037",
+  "sourceMap": "104:35:2:-;;;;8:9:-1;5:2;;;30:1;27;20:12;5:2;104:35:2;;;;;;;",
+  "deployedSourceMap": "104:35:2:-;;;;;",
+  "source": "// SPDX-License-Identifier: MIT\r\npragma solidity >=0.4.22 <0.9.0;\r\npragma experimental ABIEncoderV2;\r\n\r\ncontract AddressToString {\r\n    \r\n}\r\n",
+  "sourcePath": "C:\\Users\\aabid\\OneDrive\\Desktop\\MedNexus_011\\src\\blockchain\\contracts\\uitls\\Strings.sol",
+  "ast": {
+    "absolutePath": "project:/contracts/uitls/Strings.sol",
+    "exportedSymbols": {
+      "AddressToString": [
+        742
+      ]
+    },
+    "id": 743,
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 740,
+        "literals": [
+          "solidity",
+          ">=",
+          "0.4",
+          ".22",
+          "<",
+          "0.9",
+          ".0"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "33:32:2"
+      },
+      {
+        "id": 741,
+        "literals": [
+          "experimental",
+          "ABIEncoderV2"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "67:33:2"
+      },
+      {
+        "baseContracts": [],
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "documentation": null,
+        "fullyImplemented": true,
+        "id": 742,
+        "linearizedBaseContracts": [
+          742
+        ],
+        "name": "AddressToString",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 743,
+        "src": "104:35:2"
+      }
+    ],
+    "src": "33:108:2"
+  },
+  "legacyAST": {
+    "attributes": {
+      "absolutePath": "project:/contracts/uitls/Strings.sol",
+      "exportedSymbols": {
+        "AddressToString": [
+          742
+        ]
+      }
+    },
+    "children": [
+      {
+        "attributes": {
+          "literals": [
+            "solidity",
+            ">=",
+            "0.4",
+            ".22",
+            "<",
+            "0.9",
+            ".0"
+          ]
+        },
+        "id": 740,
+        "name": "PragmaDirective",
+        "src": "33:32:2"
+      },
+      {
+        "attributes": {
+          "literals": [
+            "experimental",
+            "ABIEncoderV2"
+          ]
+        },
+        "id": 741,
+        "name": "PragmaDirective",
+        "src": "67:33:2"
+      },
+      {
+        "attributes": {
+          "baseContracts": [
+            null
+          ],
+          "contractDependencies": [
+            null
+          ],
+          "contractKind": "contract",
+          "documentation": null,
+          "fullyImplemented": true,
+          "linearizedBaseContracts": [
+            742
+          ],
+          "name": "AddressToString",
+          "nodes": [
+            null
+          ],
+          "scope": 743
+        },
+        "id": 742,
+        "name": "ContractDefinition",
+        "src": "104:35:2"
+      }
+    ],
+    "id": 743,
+    "name": "SourceUnit",
+    "src": "33:108:2"
+  },
+  "compiler": {
+    "name": "solc",
+    "version": "0.5.1+commit.c8a2cb62.Emscripten.clang"
+  },
+  "networks": {},
+  "schemaVersion": "3.4.16",
+  "updatedAt": "2024-02-26T17:20:06.634Z",
+  "devdoc": {
+    "methods": {}
+  },
+  "userdoc": {
+    "methods": {}
+  }
+}
