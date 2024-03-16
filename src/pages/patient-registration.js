@@ -356,7 +356,7 @@ const PatientRegistration = () => {
         <div className="w-[17.313rem] relative h-[3.625rem] text-[2.063rem] font-antonio">
           <b className="absolute h-[75.86%] w-[92.78%] top-[0%] left-[7.22%] leading-[130%] inline-block whitespace-pre-wrap">
             {" "}
-            MEDNEXUS
+            Empowering Health
           </b>
           <img
             className="absolute h-[52.93%] w-[20.65%] top-[17.24%] right-[79.35%] bottom-[29.83%] left-[0%] max-w-full overflow-hidden max-h-full"
