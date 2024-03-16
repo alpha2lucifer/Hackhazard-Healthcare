@@ -1,7 +1,7 @@
 import { useCallback } from "react";
 import { useNavigate } from "react-router-dom";
 import HospitalRegistrationFormContai from "../components/hospital-registration-form-contai.js";
-import DoctorRegistration from "../components/doctor-registration-form.js";
+import DoctorRegistration from "../components/doctor-registration-form.jsx";
 import HomeContainer from "../components/home-container.js";
 
 const DoctorLoginPage = () => {
