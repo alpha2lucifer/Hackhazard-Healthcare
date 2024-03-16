@@ -44,7 +44,7 @@ const DoctorDashboard = () => {
         </div>
         <div className="absolute top-[1.75rem] left-[59.063rem] flex flex-row items-center justify-start gap-[0rem_0.938rem]">
           <div className="w-[2.75rem] relative rounded-3xs bg-text-10 h-[2.75rem]" />
-          <div className="relative font-medium">Aabid Hussain</div>
+          <div className="relative font-medium">Dhruv Singh</div>
           <img
             className="w-[1.5rem] relative h-[1.5rem]"
             alt=""
