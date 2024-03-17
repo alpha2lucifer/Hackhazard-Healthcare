@@ -1,5 +1,5 @@
 import InputEmail from "../components/input-email.js";
-import GroupComponent from "../components/group-component1,js";
+import GroupComponent from "../components/group-component1.js";
 import FrameComponent from "../components/frame-component.js";
 import { useState } from "react";
 import { handle_patient_registration,get_patient_lists } from "../utils/Contract.js";
